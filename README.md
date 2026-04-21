@@ -57,5 +57,3 @@ Resume Upload → Skill Extraction → Market Analysis → Gap Detection → Roa
 ## ⭐ Show Your Support
 If you like this project, give it a ⭐ on GitHub!
 
-## ⭐ Show Your Support
-If you like this project, give it a ⭐ on GitHub!
