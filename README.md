@@ -40,9 +40,20 @@ CareerMap AI is an **Agentic AI-powered system** that analyzes resumes, identifi
 ```text
 Resume Upload → Skill Extraction → Market Analysis → Gap Detection → Roadmap Generation
 
-## ▶️ Run Locally
-```bash
-git clone https://github.com/your-username/careermap-ai.git
-cd careermap-ai
-pip install -r requirements.txt
-streamlit run app.py
+---
+
+## 🌐 Live Demo / View Project  
+
+<p align="center">
+  <a href="YOUR_STREAMLIT_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Launch%20App-CareerMap%20AI-blue?style=for-the-badge&logo=streamlit">
+  </a>
+</p>
+
+<p align="center">
+  👉 Experience the live application here  
+</p>
+
+> Replace `YOUR_STREAMLIT_LINK_HERE` with your deployed Streamlit app link.
+
+---
