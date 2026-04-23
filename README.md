@@ -44,7 +44,7 @@ Resume Upload → Skill Extraction → Market Analysis → Gap Detection → Roa
 ## 🌐 Live Demo / View Project  
 
 <p align="center">
-  <a href="YOUR_STREAMLIT_LINK_HERE" target="_blank">
+  <a href="(https://careermap-ai.streamlit.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Launch%20App-CareerMap%20AI-blue?style=for-the-badge&logo=streamlit">
   </a>
 </p>
